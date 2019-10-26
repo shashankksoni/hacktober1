@@ -1,1 +1,1 @@
-<h1>THis is Hactober</h1>
+<h1>Hactober</h1>
